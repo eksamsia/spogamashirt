@@ -1,0 +1,1 @@
+<?php  echo "<script>location='user/index.php';</script>"; ?>

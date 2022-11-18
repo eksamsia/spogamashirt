@@ -1,0 +1,28 @@
+USER
+
+1. login
+2. Register
+3. List Product
+4. detail Product
+5. add to cart
+6. list cart
+7. update cart
+8. checkout (cek ongkir, midtrans, update stock)
+9. tambah alamat
+10. edit alamat
+11. hapus alamat
+12. list transaksi
+13. detail transaksi
+14. update profile
+15. ganti password
+
+ADMIN
+1. CRUD barang
+2. CRUD kategori
+3. list pembelian
+4. detail Pembelian
+5. confirm pembelian
+6. input resi
+7. laporan pembelian
+8. Login Logout
+9.
